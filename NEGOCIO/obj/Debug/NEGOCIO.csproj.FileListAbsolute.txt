@@ -1,0 +1,242 @@
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\NEGOCIO\obj\Debug\NEGOCIO.pdb

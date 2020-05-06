@@ -1,0 +1,874 @@
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\Programa\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\DataShop ultimja versión\DataShop\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\update\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Downloads\Versiones de Data Shop\Segundo intento de modificacion con clases\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Nueva carpeta\DataShop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Nueva carpeta\4-11\DataShop\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\7-11\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Downloads\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\domino lluvioso\DataShop 10-11\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Lurias\Desktop\Proyecto final PROG 3\DATASHOPPP\DATASHOPPP\DataShop 12-11\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Nueva carpeta\Nueva carpeta\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Proyecto final PROG 3\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Proyecto final PROG 3\8-12\DataShop (1)\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\BRAII\Desktop\josedatashopppppppppppppp\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Downloads\DataShop (2) revision 3\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\testeo nu 56\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\Nueva carpeta (2)\DataShop\DataShop\obj\Debug\DataShop.Estadisticas.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Estadisticas.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\Trabajo final programacion 3 2019\Datashop enero\Datashop enero\DataShop\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.dll
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.exe
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.pdb
+C:\Users\jose_\Desktop\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas2.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.dll
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.pdb
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas2.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.exe
+C:\Users\BRAII\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe.config
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.exe
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DataShop.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.dll
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\ENTIDAD.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\NEGOCIO.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\bin\Debug\DATOS.pdb
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csprojAssemblyReference.cache
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Cliente.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_marca.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Producto.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Agregar_Proveedor.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Clientes.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Estadisticas2.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Cliente.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Generos.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Marcas.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Productos.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Filtrar_Proveedores.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.MenuPrincipal.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Genero.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Lista_productos.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Generos.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Listar_Marcas.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.LOGIN.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.NuevoUsuario.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Properties.Resources.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Proveedores.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Reporte1.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.Transaccion.resources
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.GenerateResource.cache
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CoreCompileInputs.cache
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.csproj.CopyComplete
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.exe
+C:\Users\Aguirre Brian\Desktop\PROYECTO FINAL 10-2\DataShop testeo con imagenes 29 enero\DataShop\obj\Debug\DataShop.pdb
